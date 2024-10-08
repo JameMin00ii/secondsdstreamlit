@@ -1,0 +1,9 @@
+ติดตั้ง Python ใน microsoft store
+ติดตั้งส่วนเสริม Python ใน VS Code
+
+python --version
+python -m pip --version
+python -m pip install streamlit
+
+รัน
+python -m streamlit run main.py
